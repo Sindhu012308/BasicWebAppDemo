@@ -1,2 +1,2 @@
 # BasicWebAppDemo
-This is a basic web application with data access layer, Controller and Service layers.
+This is a basic web application with Controller and Service layers.
